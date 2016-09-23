@@ -13,7 +13,7 @@ public class C51Test {
 	@Before
 	public void before() {
 
-		myClassC51 = new C51();
+		myClassC51 = new C51(); 
 	}
 
 	@Test
